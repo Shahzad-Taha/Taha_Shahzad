@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Taha Shahzad ( Dexter )
+- 👀 I’m interested in DotNet Developer
+- 🌱 I’m currently learning full Stack Web Development
+- 📫 How to reach me by contacting me through gmail: Shahzadtaha638@gmail.com
